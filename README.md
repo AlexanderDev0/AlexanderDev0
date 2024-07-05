@@ -34,5 +34,20 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se tive
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDev0&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexanderDev0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<table>
+<thead>
+<tr>
+<th>Badge ONE - Sprint 01</th>
+<th>Badge ONE - Sprint 02</th>
+<th>Badge ONE - Sprint 03</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/42475699/197026827-b239cef4-2b52-4d3d-a88e-227029c27cb4.png"><img src="https://user-images.githubusercontent.com/42475699/197026827-b239cef4-2b52-4d3d-a88e-227029c27cb4.png" alt="badge-one" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/42475699/197026865-30a0eed9-eab1-4867-9d58-6df4184a3442.png"><img src="https://user-images.githubusercontent.com/42475699/197026865-30a0eed9-eab1-4867-9d58-6df4184a3442.png" alt="badge-two" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/42475699/197026922-f76fed8c-a9e6-4829-b08d-2fb9bea5b271.png"><img src="https://user-images.githubusercontent.com/42475699/197026922-f76fed8c-a9e6-4829-b08d-2fb9bea5b271.png" alt="badge-three" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
 
