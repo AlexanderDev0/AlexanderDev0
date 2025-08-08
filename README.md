@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Alexander and my nickname is "San"!
 <h1>Sobre Mim</h1>
-Olá! Eu sou Alexander, atualmente em transição de carreira e estudando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica. Estou focado em aprender e desenvolver minhas habilidades em lógica de programação.
+Olá! Eu sou Alexander
 
 <h3>Experiências e Habilidades</h3>
 Ao longo do meu aprendizado, tenho adquirido experiência nas seguintes tecnologias:
